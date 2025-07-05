@@ -1,0 +1,8 @@
+*.swp
+.idea/
+.venv/
+my.xml
+alembic.ini
+settings.yaml
+__pycache__
+*pyc
